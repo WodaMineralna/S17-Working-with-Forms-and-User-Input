@@ -18,6 +18,9 @@ export default function Login() {
       setEmailIsInvalid(true);
       return;
     }
+
+    console.log("[DUMMY] Sending a HTTP request...");
+
     setEmailIsInvalid(false); // aby zniknal error message, kiedy najpierw wpiszemy zly email, a potem zsubmitujemy poprawny
   }
 
