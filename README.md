@@ -5,15 +5,15 @@ Practice code for Section 17 - Working with Forms & User Input, part of the cour
 This project covers
 - Controlled components for forms
 - Client side validation and error messages
-Project type
-- Based on a guided project
+  
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
 - JavaScript (ES6+)
 - Build tool - Vite
-- Forms
-- Validation
+  
 ## How to Run
 
 ```bash
