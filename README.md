@@ -2,7 +2,7 @@
 
 Practice code for Section 17 - Working with Forms & User Input, part of the course "React - The Complete Guide (incl. Redux)" by Maximilian Schwarzmüller.
 
-This project covers
+This project covers:
 - Controlled components for forms
 - Client side validation and error messages
   
